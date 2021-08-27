@@ -1,0 +1,29 @@
+
+body {margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;}
+section{width: 100%;}
+h3{color: #283a4c;font-weight: bold;}
+h2{color: brown;font-weight: bold;}
+footer label{color:white;padding: 5px;}
+footer{background-color: #283a4c;}
+.navbar{width: 100%;background: #293b4c;font-style: italic;font-weight: bold;}
+.col-form-label{font-size: 15px;font-weight: bold;font-style: italic;}
+.banner-title div h1{font-size: 36px;font-style: italic;font-weight: bold;}
+.carousel-item img{width: 100%;height: 311px;}
+.banner-title h1{color: #060001;font-family: 'Fredericka the Great', cursive;}
+.Home-area{background-image: url('./media/background1.jpg');}
+.carousel-caption h3{color: black;}
+.Front-form{background-color: white;border-radius: 13px;box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);}
+.ImgSlide{width: 40%;}
+.List{width: 100%;}
+.btn{box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);}
+.card{box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);}
+.img1{height: 407px; background-image: url('./media/developers.png')}
+.img2{height: 360px; background-image: url('./media/network.jpg')}
+.btun input{font-weight: bold;}
+.contactstyl{width: 100%;}
+#navItems, .nav-lang > a{color: white; font-style: normal;}
+#formtitle{font-size: 26px;font-style: italic;font-weight: bold;}
+#lgNote label{font-size: 15px;}
+#lgNote p {font-size: 11px;}
+#langGap{color: white;font-style: normal;}
+#root-app{font-family: 'Comfortaa', cursive;}
